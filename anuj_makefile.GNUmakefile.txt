@@ -1,0 +1,2 @@
+all:
+	gcc -w -g network.h anujrast_proj2.c helperFunctions.c -o server
